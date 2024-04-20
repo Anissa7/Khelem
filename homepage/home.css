@@ -267,7 +267,7 @@ p {
 	background-position: top center;
 	position: relative;
 	z-index: 1;
-	background-color: rgb(241, 241, 238);
+	background-color:  rgb(0, 174, 255);
 }
 #hero::before{
 	content: '';
@@ -412,7 +412,7 @@ p {
   justify-content: center;
   height: 40vh;
   margin: 0;
-  background-color: #40DFAF; /* Set your desired background color */
+  background-color:  rgb(0, 174, 255); /* Set your desired background color */
 }
 .c-container {
 	font-family:Balsamiq Sans ;

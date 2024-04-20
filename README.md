@@ -19,7 +19,7 @@ Khelem vise à servir les habitants du Burkina Faso, ainsi que les professionnel
 
  __Utilisation__
 
-Pour accéder à Khelem, veuillez visiter WWW.khelem.com.
+Pour accéder à Khelem, veuillez visiter https://khelem.netlify.app/Ne.
 
  __Contribuer__
 
