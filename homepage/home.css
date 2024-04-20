@@ -267,7 +267,7 @@ p {
 	background-position: top center;
 	position: relative;
 	z-index: 1;
-	background-color: rgb(215, 238, 9);
+	background-color: rgb(241, 241, 238);
 }
 #hero::before{
 	content: '';
@@ -290,7 +290,7 @@ p {
 	width: fit-content;
 	font-size: 4rem;
 	position: relative;
-	color: transparent;
+	color: rgb(0, 174, 255);
 	animation: text_reveal 0.5s ease forwards;
 	animation-delay: 1s;
 }
